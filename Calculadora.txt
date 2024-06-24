@@ -1,0 +1,24 @@
+Coloque os arquivo em um diretório na pasta do Linux Ubuntu exemplo: 
+/home/usuário/calculadora
+
+No Ubuntu entra na pasta : cd /home/usuário/calculadora
+verifique se o documento se encontra ll
+Para Executar a calculadora pode ser usado
+python3 /home/usuário/calculadora/calculadora.sh
+python3 calculadora.sh
+ou 
+para o arquivo .py usar ./calculadora.py
+
+Explicação Detalhada:
+
+1 -Entrada de Dados:
+
+O script solicita ao usuário que insira dois números.
+
+2 - Operações Matemáticas:
+
+O script realiza as quatro operações matemáticas básicas (adição, subtração, divisão e multiplicação) com os números fornecidos.
+
+3 - Continuar ou Sair:
+
+O script pergunta ao usuário se deseja realizar outra operação. Se o usuário responder "sim", o loop continua; caso contrário, o loop termina.
